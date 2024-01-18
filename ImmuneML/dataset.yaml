@@ -1,0 +1,57 @@
+dataset_class: RepertoireDataset
+identifier: fec8e9f3253743468e05fbfb31928e7f
+labels:
+  signal_disease:
+  - false
+  - true
+  subject_id:
+  - P00023
+  - P00007
+  - P00025
+  - BR26B
+  - P00005
+  - BR21B
+  - BR19B
+  - BR15B
+  - P00003
+  - P00019
+  - P00008
+  - P00010
+  - P00030
+  - P00021
+  - BR05B
+  - P00022
+  - BR07B
+  - P00018
+  - P00020
+  - P00011
+  - P00012
+  - P00016
+  - P00031
+  - BR18B
+  - BR24B
+  - P00024
+  - BR14B
+  - BR16B
+  - P00006
+  - P00028
+  - BR17B
+  - P00002
+  - P00013
+  - P00009
+  - P00017
+  - P00014
+  - BR22B
+  - P00029
+  - BR20B
+  - BR25B
+  - BR13B
+  - P00026
+  - BR01B
+  - P00027
+  - P00004
+  - P00015
+metadata_fields: null
+metadata_file: dataset_metadata.csv
+name: dataset
+repertoire_ids: null

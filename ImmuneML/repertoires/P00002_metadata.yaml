@@ -1,0 +1,16 @@
+filename: P00002.tsv
+signal_disease: false
+subject_id: P00002
+type_dict:
+  chain: str
+  duplicate_count: int
+  frame_type: str
+  j_allele: str
+  j_call: str
+  j_family: str
+  region_type: str
+  sequence: DNAEncoding
+  sequence_aa: AminoAcidEncoding
+  v_allele: str
+  v_call: str
+  v_family: str
